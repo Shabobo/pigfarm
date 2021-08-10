@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/buy.jpg</file>
+        <file>image/exit.jpg</file>
+        <file>image/pen.jpg</file>
+        <file>image/left.jpg</file>
+        <file>image/right.jpg</file>
+        <file>image/begin.jpg</file>
+        <file>image/background.jpg</file>
+        <file>image/continue.jpg</file>
+        <file>image/icon.jpg</file>
+        <file>image/pigpen.jpg</file>
+        <file>image/blank.jpg</file>
+        <file>image/close.jpg</file>
+        <file>image/black.jpg</file>
+        <file>image/flower.jpg</file>
+        <file>image/bigflower.jpg</file>
+        <file>image/pig.jpg</file>
+        <file>image/shop.jpg</file>
+        <file>image/background1.jpg</file>
+        <file>image/background2.jpg</file>
+        <file>image/background3.jpg</file>
+        <file>image/starttime.jpg</file>
+        <file>image/stoptime.jpg</file>
+        <file>image/play.jpg</file>
+    </qresource>
+</RCC>
